@@ -1,13 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname a05q3) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;
-;; **********************************************
-;;   Briar Smith (20562300)
-;;   CS 115 Winter 2016
-;;   Assignment 05, Problem 3
-;; **********************************************
-;;
+
 ;; (lst2str lst4) consumes a list of strings and converts
 ;;   the entire string to downcased letters.
 ;; lst2str: (listof Str) -> (listof Str)
